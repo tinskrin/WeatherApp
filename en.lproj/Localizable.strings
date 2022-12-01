@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Kris on 25.11.2022.
+  
+*/
+
+"Humidity" = "Humidity";
+"Feels like" = "Feels like";
+"Pressure" = "Pressure";
+"Wind" = "Wind";
+"UV index" = "UV index";
+"Enter city name" = "Enter city name";
+"Cancel" = "Cancel";
+"Search" = "Search";
+"en" = "en";

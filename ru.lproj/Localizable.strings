@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Kris on 25.11.2022.
+  
+*/
+
+"Humidity" = "Влажность";
+"Feels like" = "Ощущается как";
+"Pressure" = "Давление";
+"Wind" = "Ветер";
+"UV index" = "Уф-индекс";
+"Enter city name" = "Введите город";
+"Cancel" = "Закрыть";
+"Search" = "Поиск";
+"en" = "ru";
